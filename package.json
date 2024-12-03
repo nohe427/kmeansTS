@@ -1,0 +1,16 @@
+{
+  "name": "kmeansanalysis",
+  "version": "1.0.0",
+  "description": "K Means Analysis using Genkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nohe",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@genkit-ai/vertexai": "^0.9.6",
+    "genkit": "^0.9.6",
+    "ml-kmeans": "^6.0.0"
+  }
+}
